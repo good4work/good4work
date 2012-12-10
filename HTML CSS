@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Contact</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/text.css" rel="stylesheet" type="text/css">
+<link href="css/grid.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/topSlide.js"></script>
+
+</head>
+<body>
+<div class="container_16" id="top_header">
+  <div class="top_header grid_16">
+    <div class="logo grid_2  alpha"><a href="#"><img src="images/logo.png" width="80" height="57" alt="logo"></a></div>
+    <div class="grid_9 suffix_1 heade_tex omega"><img src="images/header_tex.png" width="329" height="34" alt="header tex"><br />
+      <p>...engage your community</p>
+    </div>
+    <div class="login grid_1  prefix_3 alpha omega"><a href="#">Login</a></div>
+    <div class="grid_16 nav_bar alpha">
+      <ul class="nav-list">
+        <li class="fitst_list"><a href="home.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact_us.html">Contact</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </div>
+    <div class="grid_14 prefix_1 suffix_1  alpha omega">
+      <div class="grid_13 prefix_1  some_tex alpha">
+          <p class="text_color"><strong>About </strong><br />
+            At eGroup Text, we are committed to always giving you excellent customer service.</p>
+          <p class="text_color">eGroup Text is a leading provider of communications solutions leveraging online software for mobile devices. Based in Orem, Utah, eGroup Text, LLC serves from large to small businesses, universities, department stores, and community groups. </p>
+          <p class="text_color">The eGroup Text online platform is a business friendly, community texting solution. eGroup Text is the only web based service that allows 2-way unlimited texting; from the web to the cell phone and back.  We offer an online software platform that enables users to engage their community via a managed group texting solution.  Our "web text" messaging service allows users to send and receive messages from the web to any mobile phone in the United States.  </p>
+          <p class="text_color">eGroupText allows users to send text messages from the web to both individuals and groups, while enabling recipients to respond directly to the originating computer. Sending and receiving text messages was never so easy!</p>
+          
+       
+      </div>
+    </div>
+  </div>
+  <div class="fotter grid_7 prefix_5 suffix_4">
+    <ul>
+      <li><a href="#">About <span class="d-line"> |</span></a></li>
+      <li><a href="#">Policy<span class="d-line"> |</span> </a></li>
+      <li><a href="#">Terms <span class="d-line"> |</span></a></li>
+      <li><a href="#">Press <span class="d-line"> |</span></a></li>
+      <li><a href="#">Contact <span class="d-line"> |</span></a></li>
+    </ul>
+  </div>
+  <div class="grid_16 copy_right">
+  <p style="float:right"><span class="pull-right" id="totop">Back to Top <i class="icon-arrow-up"></i></span></p>
+	
+    <p>&copy; 2009-2010 Group Text, LLC. All Rights Reserved</p>
+  </div>
+</div>
+</body>
+</html>
